@@ -76,7 +76,7 @@
           <a href="#currency" class="py-2 px-3 rounded-md hover:bg-rw-800">Покупка</a>
           <a href="#shop" class="py-2 px-3 rounded-md hover:bg-rw-800">Магазин</a>
           <a href="#services" class="py-2 px-3 rounded-md hover:bg-rw-800">Услуги</a>
-          <a href="#gallery" class="py-2 px-3 rounded-md hover:bg-rw-800">Галерея</a>
+          <a href="#gallery" class="py-2 px-3 rounded-md hover:bg-rw-800"></a>
         </nav>
 
         <div class="flex items-center gap-3">
